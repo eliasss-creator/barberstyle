@@ -1,0 +1,18 @@
+# Senha real do banco
+config.properties
+
+# Pastas de compilação Maven e NetBeans
+/target/
+/build/
+/dist/
+/nbproject/private/
+
+# Arquivos temporários gerados pelo NetBeans / Maven Shade
+nbactions.xml
+dependency-reduced-pom.xml
+
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
