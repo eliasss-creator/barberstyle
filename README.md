@@ -112,6 +112,11 @@ db.password=sua_senha_mysql
 mvn clean compile exec:java -Dexec.mainClass="br.com.barbearia.barberstyle.BarberStyle"
 ```
 
+### 6. Se deseja apenas o .jar 
+1. Clique em (ex: `BarberStylev1.0.0 Latest`) localizado em Release.
+
+
+
 ---
 
 <div align="center">
